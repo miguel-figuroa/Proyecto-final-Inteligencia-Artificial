@@ -4,7 +4,7 @@
 # Proyecto-final-Inteligencia-Artificial
 
 ## Integrantes:
-Natalia Rodriguez Prado
+Natalia Rodriguez Prado-
 Miguel Ernesto Figueroa Salas
              
 ## Introducción del proyecto
