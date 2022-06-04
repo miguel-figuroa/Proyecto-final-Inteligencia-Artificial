@@ -1,7 +1,7 @@
-# Proyecto-final-Inteligencia-Artificial#
+# Proyecto-final-Inteligencia-Artificial
  Dos Métodos de regresión para la estimación de la cantidad de ingresos a las películas estrenadas desde 1902 hasta 2017.
 
-# Proyecto-final-Inteligencia-Artificial#
+# Proyecto-final-Inteligencia-Artificial
 
 ## Integrantes:
 Natalia Rodriguez Prado
@@ -20,3 +20,4 @@ Se logro determinar con exito que película tuvo el mayor ingreso la cual dio co
 0.6225006477171241 y para conjunto de Validación R2 0.6040854106550964.
 
 ## Link al video de youtube en el readme.md
+https://youtu.be/axZ59waKVG8
